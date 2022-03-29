@@ -15,3 +15,7 @@ whoami;
 echo "Vamos ver se conseguimos nos conectar com o google?"
 
 ping www.google.com;
+
+echo "Criarei um diretório chamado FolderNovo"
+
+mkdir FolderNovo;

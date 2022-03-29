@@ -31,3 +31,7 @@ ls
 echo "Agora removerei o diretório FolderNovo"
 
 rm -fr FolderNovo
+
+echo "Confirma para mim se foi removido o folder: FolderNovo"
+
+ls

@@ -27,3 +27,7 @@ mkdir TESTINHO
 echo "Agora, quero ver todos os arquivos listados nessa pasta"
 
 ls
+
+echo "Agora removerei o diretório FolderNovo"
+
+rm -fr FolderNovo

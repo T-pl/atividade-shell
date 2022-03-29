@@ -7,3 +7,7 @@ date +%d/%m/%y;
 echo "Estamos atualmente localizados no folder:"
 
 pwd;
+
+echo "O usuário conectado na máquina é:"
+
+whoami;

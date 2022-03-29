@@ -11,3 +11,7 @@ pwd;
 echo "O usuário conectado na máquina é:"
 
 whoami;
+
+echo "Vamos ver se conseguimos nos conectar com o google?"
+
+ping www.google.com;

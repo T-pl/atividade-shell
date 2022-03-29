@@ -19,3 +19,7 @@ ping www.google.com;
 echo "Criarei um diretório chamado FolderNovo"
 
 mkdir FolderNovo;
+
+echo "Criarei um diretório chamado TESTINHO"
+
+mkdir TESTINHO

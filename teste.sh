@@ -23,3 +23,7 @@ mkdir FolderNovo;
 echo "Criarei um diretório chamado TESTINHO"
 
 mkdir TESTINHO
+
+echo "Agora, quero ver todos os arquivos listados nessa pasta"
+
+ls
